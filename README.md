@@ -1,4 +1,4 @@
-# Bootcamp-Arkademy-Batch-13-1
+# Kloter One
 
 Javascript dalam repository ini menggunakan pengujian dengan https://es6console.com/
 
